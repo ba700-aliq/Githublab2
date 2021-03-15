@@ -3,3 +3,6 @@
 
 data _null_;
 run;
+/* check the product installed*/
+proc setinit;
+run;
